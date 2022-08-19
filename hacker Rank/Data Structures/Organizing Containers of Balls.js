@@ -4,7 +4,7 @@ function organizingContainers(containers) {
    quantidadeBolas = []
    
    for (let i = 0; i < n; i++) {
-   quantidadeBolas.push(0)
+      quantidadeBolas.push(0)
    }
 
 containers.forEach(container => {
