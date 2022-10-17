@@ -16,5 +16,5 @@ function miniMaxSum(arr) {
  
    console.log(sumMax, sumMin)
 }
-var arr = [1,3,5,7,9]
-miniMaxSum(arr)
+var ar = [8,3,5,7,9]
+miniMaxSum(ar)
